@@ -118,7 +118,3 @@ Processos operacionais detalhados passo a passo:
 - [doc/core/sdd.md](https://github.com/gustavogss/boilerplaite-rn-ia/tree/main/doc/core/sdd.md) — Software Design Document
 
 ---
-
-## Licença
-
-Este projeto é open source. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
